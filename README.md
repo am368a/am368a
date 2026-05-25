@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdul%20Mohammed&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Staff%20Software%20Engineer%20%7C%20Software%20Architect%20%7C%20AI%20Engineering&descColor=fff&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Mohammed&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Staff%20Software%20Engineer%20%7C%20Software%20Architect%20%7C%20AI%20Engineering&descColor=fff&descSize=15&descAlignY=64)
 
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/19835389?v=4" width="110" alt="Abdul Mohammed" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-am368a-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am368a)
 ![Location](https://img.shields.io/badge/Seattle%2C_WA-4f86c6?style=flat-square&logo=googlemaps&logoColor=white)
@@ -13,6 +11,13 @@
 </div>
 
 Staff Software Engineer with 14+ years of experience building large-scale distributed systems, cloud-native platforms, and high-volume transaction processing solutions across financial services, retail, and telecommunications. Currently pursuing an MSCS at CU Boulder and exploring Generative AI, LLMs, and AI-enabled software systems.
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am368a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/am368a)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am368a&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/am368a)
+
+</div>
 
 ---
 
@@ -71,9 +76,6 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 ---
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am368a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/am368a)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am368a&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/am368a)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=am368a&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/am368a)
 
