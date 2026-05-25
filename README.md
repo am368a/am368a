@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Mohammed&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Staff%20Software%20Engineer%20%7C%20Software%20Architect%20%7C%20AI%20Engineering&descColor=fff&descSize=15&descAlignY=64)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=175&section=header&text=Abdul%20Mohammed&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Staff%20Software%20Engineer%20%7C%20Software%20Architect%20%7C%20AI%20Engineering&descColor=fff&descSize=14&descAlignY=64)
 
 <div align="center">
 
@@ -14,8 +14,9 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=am368a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/am368a)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am368a&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/am368a)
+[![GitHub Streak](https://streak-stats.demolab.com?user=am368a&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/am368a)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am368a&theme=tokyonight&hide_border=true&langs_count=8&layout=donut-vertical&cache_seconds=86400)](https://github.com/am368a)
 
 </div>
 
