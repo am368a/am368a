@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/19835389?v=4" width="120" alt="Abdul Mohammed" />
+
 # Abdul Mohammed
 
 **Staff Software Engineer · Software Architect · AI Engineering**
