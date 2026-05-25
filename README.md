@@ -17,6 +17,8 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 [![GitHub Streak](https://streak-stats.demolab.com?user=am368a&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/am368a)
 [![Top Languages](https://github-readme-stats-beige-iota-98.vercel.app/api/top-langs/?username=am368a&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&layout=compact)](https://github.com/am368a)
 
+<sub>*Language stats reflect personal repos only — see Skills for full stack*</sub>
+
 </div>
 
 ---
