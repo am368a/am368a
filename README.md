@@ -18,7 +18,6 @@ Software engineer focused on systems development and AI. Background in distribut
 |------------|-------------|----------|
 | [mongo-export-import](https://github.com/am368a/mongo-export-import) | MongoDB import/export wrapper utility | JavaScript |
 | [serverless-websockets](https://github.com/am368a/serverless-websockets) | Serverless WebSockets via AWS API Gateway | JavaScript |
-| [cloudmap](https://github.com/am368a/cloudmap) | Serverless component for AWS CloudMap | JavaScript |
 | [serverless-node-image](https://github.com/am368a/serverless-node-image) | Serverless Node.js image processing | JavaScript |
 
 ## Coursework & Education
@@ -36,4 +35,3 @@ Software engineer focused on systems development and AI. Background in distribut
 
 `JavaScript` `Node.js` `TypeScript` `Python` `Java` `Kotlin` `C` `C++`
 `AWS` `Serverless` `MongoDB` `Android` `React Native` `Flutter`
-
