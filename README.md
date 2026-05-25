@@ -10,6 +10,8 @@
 ![Location](https://img.shields.io/badge/Seattle%2C_WA-2d333b?style=flat-square&logo=googlemaps&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=am368a&label=Profile+views&color=2d333b&style=flat-square)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=8b949e&center=true&vCenter=true&width=600&lines=Staff+Software+Engineer+%40+Walmart+Global+Tech;Distributed+Systems+%7C+Cloud-Native+%7C+FinTech;MSCS+%40+CU+Boulder+%7C+AI+%26+LLM+Explorer)](https://git.io/typing-svg)
+
 </div>
 
 Staff Software Engineer with 14+ years of experience building large-scale distributed systems, cloud-native platforms, and high-volume transaction processing solutions across financial services, retail, and telecommunications. Currently pursuing an MSCS at CU Boulder and exploring Generative AI, LLMs, and AI-enabled software systems.
@@ -20,7 +22,7 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 
 <div align="center">
 
-**Languages**
+![Languages](https://img.shields.io/badge/Languages-1f6feb?style=flat-square&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-2d333b?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2d333b?style=flat-square&logo=openjdk&logoColor=white)
@@ -31,7 +33,7 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 ![C](https://img.shields.io/badge/C-2d333b?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-2d333b?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frameworks & APIs**
+![Frameworks & APIs](https://img.shields.io/badge/Frameworks_%26_APIs-1f6feb?style=flat-square&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-2d333b?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2d333b?style=flat-square&logo=springboot&logoColor=white)
@@ -40,7 +42,7 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 ![React Native](https://img.shields.io/badge/React_Native-2d333b?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-2d333b?style=flat-square&logo=flutter&logoColor=white)
 
-**Cloud & Infrastructure**
+![Cloud & Infrastructure](https://img.shields.io/badge/Cloud_%26_Infrastructure-1f6feb?style=flat-square&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-2d333b?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2d333b?style=flat-square&logo=kubernetes&logoColor=white)
@@ -48,7 +50,7 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 ![Kafka](https://img.shields.io/badge/Kafka-2d333b?style=flat-square&logo=apachekafka&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-2d333b?style=flat-square&logo=serverless&logoColor=white)
 
-**Databases**
+![Databases](https://img.shields.io/badge/Databases-1f6feb?style=flat-square&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d333b?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2d333b?style=flat-square&logo=mongodb&logoColor=white)
@@ -56,7 +58,7 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-2d333b?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-2d333b?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Observability & CI/CD**
+![Observability & CI/CD](https://img.shields.io/badge/Observability_%26_CI%2FCD-1f6feb?style=flat-square&logoColor=white)
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-2d333b?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-2d333b?style=flat-square&logo=grafana&logoColor=white)
