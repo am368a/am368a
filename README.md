@@ -8,7 +8,6 @@ Software engineer focused on systems development and AI. Background in distribut
 
 | Organization | Focus |
 |--------------|-------|
-| [transistorsoft](https://github.com/transistorsoft) | Background geolocation & fetch SDKs for iOS, Android, React Native, Flutter, Capacitor |
 | [suma-inc](https://github.com/suma-inc) | Feonix fleet management platform (private) |
 | [igdinaction](https://github.com/igdinaction) | Liberty Now transportation platform (private) |
 
