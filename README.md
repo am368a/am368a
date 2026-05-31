@@ -67,7 +67,7 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 
 | Organization | Program |
 |--------------|---------|
-| [cu-mscso](https://github.com/cu-mscso) | CU Boulder MSCS — algorithms, HPC, ML, databases, networking *(in progress)* |
+| [cu-mscso](https://github.com/cu-mscso) | CU Boulder MSCS — algorithms, HPC, ML, GenAI, databases, networking *(in progress)* |
 | [mcso-ap](https://github.com/mcso-ap) | Mobile Computing — Android / Kotlin |
 | [awmwork](https://github.com/awmwork) | Personal coursework — OS, computer architecture, LLMs, compilers |
 | [udacity-awm](https://github.com/udacity-awm) | Udacity Agentic AI Nanodegree |
