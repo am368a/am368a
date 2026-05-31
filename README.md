@@ -75,12 +75,5 @@ Staff Software Engineer with 14+ years of experience building large-scale distri
 **University of Colorado Boulder** — MS Computer Science *(in progress)*
 **University of Nebraska–Lincoln** — BS Electrical Engineering · Dean's List · Eta Kappa Nu · IEEE Member
 
----
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=am368a&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/am368a)
-
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
