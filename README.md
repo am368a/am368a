@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Mohammed&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20Software%20Architect%20%7C%20AI%20%26%20LLM%20Engineering&descColor=fff&descSize=15&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="./header.svg" width="100%" alt="Abdul Mohammed - Staff Software Engineer | Software Architect" />
 </p>
 
 <!-- Quick Info & Badges -->
@@ -91,7 +91,3 @@ timeline
 - 📱 [**mcso-ap**](https://github.com/mcso-ap) — Mobile Computing & Android Platform development
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="Footer Banner" />
-</p>

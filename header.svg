@@ -1,0 +1,81 @@
+<svg fill="none" viewBox="0 0 850 180" width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
+          border-radius: 16px;
+          height: 180px;
+          width: 100%;
+          box-sizing: border-box;
+          padding: 32px 40px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .wave {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          opacity: 0.15;
+          pointer-events: none;
+        }
+
+        .title {
+          color: #ffffff;
+          font-size: 34px;
+          font-weight: 800;
+          letter-spacing: -0.5px;
+          margin: 0;
+          line-height: 1.2;
+        }
+
+        .subtitle {
+          color: #818cf8;
+          font-size: 15px;
+          font-weight: 600;
+          margin-top: 6px;
+          letter-spacing: 0.2px;
+        }
+
+        .tags {
+          display: flex;
+          gap: 8px;
+          margin-top: 14px;
+          flex-wrap: wrap;
+        }
+
+        .tag {
+          background: rgba(99, 102, 241, 0.15);
+          color: #c7d2fe;
+          border: 1px solid rgba(129, 140, 248, 0.3);
+          font-size: 11px;
+          font-weight: 600;
+          padding: 3px 10px;
+          border-radius: 20px;
+        }
+      </style>
+
+      <div class="container">
+        <svg class="wave" viewBox="0 0 850 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 60C150 100 350 20 500 60C650 100 750 30 850 50V120H0V60Z" fill="#6366f1"/>
+        </svg>
+
+        <h1 class="title">Abdul Mohammed</h1>
+        <div class="subtitle">Staff Software Engineer | Software Architect | AI &amp; LLM Engineering</div>
+        <div class="tags">
+          <span class="tag">Distributed Systems</span>
+          <span class="tag">Cloud-Native</span>
+          <span class="tag">FinTech</span>
+          <span class="tag">Agentic AI</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
