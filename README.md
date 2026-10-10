@@ -1,79 +1,97 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=175&section=header&text=Abdul%20Mohammed&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Staff%20Software%20Engineer%20%7C%20Software%20Architect%20%7C%20AI%20Engineering&descColor=fff&descSize=14&descAlignY=64)
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Mohammed&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20Software%20Architect%20%7C%20AI%20%26%20LLM%20Engineering&descColor=fff&descSize=15&descAlignY=62" width="100%" alt="Header Banner" />
+</p>
 
+<!-- Quick Info & Badges -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-am368a-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am368a)
-![Location](https://img.shields.io/badge/Seattle%2C_WA-4f86c6?style=flat-square&logo=googlemaps&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=am368a&label=Profile+views&color=0e75b6&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-am368a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am368a)
+[![Location](https://img.shields.io/badge/Location-Seattle%2C%20WA-4f86c6?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Seattle,WA)
+[![Profile Views](https://img.shields.io/badge/Profile_Views-komarev-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://komarev.com/ghpvc/?username=am368a)
+[![MSCS](https://img.shields.io/badge/MSCS-CU%20Boulder-CFB87C?style=for-the-badge&logo=google-academic&logoColor=black)](https://github.com/cu-mscso)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=F75C7E&center=true&vCenter=true&width=620&lines=Staff+Software+Engineer+%40+Walmart+Global+Tech;Distributed+Systems+%7C+Cloud-Native+%7C+FinTech;MSCS+%40+CU+Boulder+%7C+AI+%26+LLM+Explorer)](https://git.io/typing-svg)
-
-</div>
-
-Staff Software Engineer with 14+ years of experience building large-scale distributed systems, cloud-native platforms, and high-volume transaction processing solutions across financial services, retail, and telecommunications. Currently pursuing an MSCS at CU Boulder and exploring Generative AI, LLMs, and AI-enabled software systems.
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=am368a&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/am368a)
-[![Top Languages](https://github-readme-stats-beige-iota-98.vercel.app/api/top-langs/?username=am368a&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&layout=compact)](https://github.com/am368a)
-
-<sub>*Language stats reflect personal repos only — see Skills for full stack*</sub>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Staff+Software+Engineer+%40+Walmart+Global+Tech;Distributed+Systems+%7C+Cloud-Native+%7C+FinTech;MSCS+%40+CU+Boulder+%7C+AI+%26+LLM+Agentic+Systems)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Skills
+### 💫 About Me
 
-| | |
-|:--|:--|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=ED8B00) ![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Rust](https://img.shields.io/badge/Rust-1e293b?style=flat-square&logo=rust&logoColor=ce4a20) ![Kotlin](https://img.shields.io/badge/Kotlin-1e293b?style=flat-square&logo=kotlin&logoColor=7F52FF) ![C](https://img.shields.io/badge/C-1e293b?style=flat-square&logo=c&logoColor=00599C) ![C++](https://img.shields.io/badge/C++-1e293b?style=flat-square&logo=cplusplus&logoColor=00599C) |
-| **Frameworks & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=339933) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e293b?style=flat-square&logo=springboot&logoColor=6DB33F) ![GraphQL](https://img.shields.io/badge/GraphQL-1e293b?style=flat-square&logo=graphql&logoColor=E10098) ![Angular](https://img.shields.io/badge/Angular-1e293b?style=flat-square&logo=angular&logoColor=DD0031) ![React Native](https://img.shields.io/badge/React_Native-1e293b?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-1e293b?style=flat-square&logo=flutter&logoColor=02569B) |
-| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-1e293b?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Kubernetes](https://img.shields.io/badge/Kubernetes-1e293b?style=flat-square&logo=kubernetes&logoColor=326CE5) ![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED) ![Kafka](https://img.shields.io/badge/Kafka-1e293b?style=flat-square&logo=apachekafka&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-1e293b?style=flat-square&logo=serverless&logoColor=FD5750) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248) ![Redis](https://img.shields.io/badge/Redis-1e293b?style=flat-square&logo=redis&logoColor=DC382D) ![DynamoDB](https://img.shields.io/badge/DynamoDB-1e293b?style=flat-square&logo=amazondynamodb&logoColor=4053D6) ![CosmosDB](https://img.shields.io/badge/CosmosDB-1e293b?style=flat-square&logo=microsoftazure&logoColor=0078D4) |
-| **Observability & CI/CD** | ![Prometheus](https://img.shields.io/badge/Prometheus-1e293b?style=flat-square&logo=prometheus&logoColor=E6522C) ![Grafana](https://img.shields.io/badge/Grafana-1e293b?style=flat-square&logo=grafana&logoColor=F46800) ![Splunk](https://img.shields.io/badge/Splunk-1e293b?style=flat-square&logo=splunk&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-1e293b?style=flat-square&logo=gitlab&logoColor=FC6D26) ![Jenkins](https://img.shields.io/badge/Jenkins-1e293b?style=flat-square&logo=jenkins&logoColor=D24939) |
+**Staff Software Engineer & Software Architect** with **14+ years of experience** architecting high-throughput distributed systems, cloud-native backend platforms, and high-volume transaction engines across retail, financial services, and telecom. 
+
+Currently building enterprise-scale systems at **Walmart Global Tech**, pursuing an **MSCS at CU Boulder**, and actively building with **Generative AI, Agentic LLM Workflows, and Autonomous Systems**.
+
+- 🔭 **Currently Working On**: High-scale distributed event streaming & enterprise cloud platforms
+- 🎓 **Education**: MS Computer Science @ CU Boulder (*in progress*) | BS Electrical Engineering @ UNL
+- 🧠 **Focus Areas**: Agentic AI Architectures, Large Language Models, Distributed Systems, Multi-Cloud Platforms
+- 📬 **Get In Touch**: Connect with me on [LinkedIn](https://www.linkedin.com/in/am368a)
 
 ---
 
-## Experience
+### 📊 GitHub Activity & Stats
 
-| Role | Company | Period |
-|------|---------|--------|
-| Staff Software Engineer | Walmart Global Tech | 2025 – Present |
-| Senior Software Engineer | Walmart Global Tech | 2023 – 2025 |
-| Senior Node Backend Engineer | Walmart Global Tech (via ITCAPS) | 2021 – 2023 |
-| Senior API Engineer | 7-Eleven Digital Platforms (via ITCAPS) | 2018 – 2021 |
-| Software Architect / Full-Stack Engineer | IGD · PayPal · State of Maryland (via ITCAPS) | 2016 – 2018 |
-| Java Developer | Tech Mahindra / NuView Technologies (Client: AT&T) | 2011 – 2016 |
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=am368a&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-beige-iota-98.vercel.app/api/top-langs/?username=am368a&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+</div>
 
-## Professional Work
+---
 
-| Organization | Focus |
-|--------------|-------|
-| [suma-inc](https://github.com/suma-inc) | Feonix fleet management platform (private) |
-| [igdinaction](https://github.com/igdinaction) | Liberty Now transportation platform (private) |
+### 🛠️ Technical Ecosystem
 
-## Personal Projects
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `TypeScript` `JavaScript` `Rust` `Kotlin` `C` `C++` |
+| **Backend & APIs** | `Node.js` `Spring Boot` `FastAPI` `GraphQL` `REST` `gRPC` `WebSockets` |
+| **AI & LLMs** | `LangChain` `LlamaIndex` `PyTorch` `Vector DBs` `Agentic Workflows` `MCP` |
+| **Cloud & Infra** | `AWS` `Kubernetes` `Docker` `Apache Kafka` `Serverless` `Terraform` |
+| **Databases** | `PostgreSQL` `MongoDB` `Redis` `DynamoDB` `CosmosDB` |
+| **Observability & CI/CD** | `Prometheus` `Grafana` `Splunk` `GitHub Actions` `GitLab CI` `Jenkins` |
+| **Mobile & Web** | `Angular` `React Native` `Flutter` `Android (Kotlin)` |
 
-| Repository | Description | Language |
-|------------|-------------|----------|
-| [mongo-export-import](https://github.com/am368a/mongo-export-import) | MongoDB import/export wrapper utility | JavaScript |
-| [serverless-websockets](https://github.com/am368a/serverless-websockets) | Serverless WebSockets via AWS API Gateway | JavaScript |
-| [serverless-node-image](https://github.com/am368a/serverless-node-image) | Serverless Node.js image processing | JavaScript |
+---
 
-## Coursework & Education
+### 💼 Professional Journey
 
-> Coursework repos are private — org members can view the full index at the respective org pages.
+```mermaid
+timeline
+    title Career Architecture & Milestones
+    2011 - 2016 : Java Developer (AT&T / Tech Mahindra)
+                : Built enterprise core services & billing platforms
+    2016 - 2018 : Software Architect (PayPal, State of MD, IGD)
+                : Full-stack architectures & secure transaction engines
+    2018 - 2021 : Senior API Engineer (7-Eleven Digital)
+                : Microservices & high-scale mobile backend APIs
+    2021 - 2023 : Senior Node Backend Engineer (Walmart Global Tech)
+                : Cloud-native event platforms & microservices
+    2023 - 2025 : Senior Software Engineer (Walmart Global Tech)
+                : Enterprise cloud infrastructure & high-scale platforms
+    2025 - Present : Staff Software Engineer (Walmart Global Tech)
+                   : System architecture, AI engineering & distributed platforms
+```
 
-| Organization | Program |
-|--------------|---------|
-| [cu-mscso](https://github.com/cu-mscso) | CU Boulder MSCS — algorithms, HPC, ML, GenAI, databases, networking *(in progress)* |
-| [mcso-ap](https://github.com/mcso-ap) | Mobile Computing — Android / Kotlin |
-| [awmwork](https://github.com/awmwork) | Personal coursework — OS, computer architecture, LLMs, compilers |
-| [udacity-awm](https://github.com/udacity-awm) | Udacity Agentic AI Nanodegree |
+---
 
-**University of Colorado Boulder** — MS Computer Science *(in progress)*
-**University of Nebraska–Lincoln** — BS Electrical Engineering · Dean's List · Eta Kappa Nu · IEEE Member
+### 🚀 Key Projects & Open Source
 
+#### 🛠️ Open Source Utilities
+- 📦 [**mongo-export-import**](https://github.com/am368a/mongo-export-import) — CLI utility wrapper for fast MongoDB dataset migration & exports *(JavaScript)*
+- ⚡ [**serverless-websockets**](https://github.com/am368a/serverless-websockets) — Real-time event architecture using AWS API Gateway & Lambda *(JavaScript)*
+- 🖼️ [**serverless-node-image**](https://github.com/am368a/serverless-node-image) — High-throughput image processing pipeline on AWS Serverless *(JavaScript)*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+#### 🏢 Organization Work
+- 🚛 [**suma-inc**](https://github.com/suma-inc) — Feonix fleet management & telemetry platform
+- 🚕 [**igdinaction**](https://github.com/igdinaction) — Liberty Now transportation & dispatch platform
+
+#### 🎓 Academic & AI Research Orgs
+- 🏫 [**cu-mscso**](https://github.com/cu-mscso) — CU Boulder MSCS Repositories (Algorithms, HPC, ML, GenAI)
+- 🤖 [**udacity-awm**](https://github.com/udacity-awm) — Agentic AI & Autonomous Systems Nanodegree projects
+- 📱 [**mcso-ap**](https://github.com/mcso-ap) — Mobile Computing & Android Platform development
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="Footer Banner" />
+</p>
