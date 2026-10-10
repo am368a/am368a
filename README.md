@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-am368a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am368a)
 [![Location](https://img.shields.io/badge/Location-Seattle%2C%20WA-4f86c6?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Seattle,WA)
-[![Profile Views](https://img.shields.io/badge/Profile_Views-komarev-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://komarev.com/ghpvc/?username=am368a)
+[![Role](https://img.shields.io/badge/Role-Staff%20Software%20Engineer-059669?style=for-the-badge&logo=walmart&logoColor=white)](https://www.walmart.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Staff+Software+Engineer+%40+Walmart+Global+Tech;Distributed+Systems+%7C+Cloud-Native+%7C+FinTech;AI+%26+LLM+Agentic+Systems)](https://git.io/typing-svg)
 
