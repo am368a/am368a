@@ -9,9 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-am368a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am368a)
 [![Location](https://img.shields.io/badge/Location-Seattle%2C%20WA-4f86c6?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Seattle,WA)
 [![Profile Views](https://img.shields.io/badge/Profile_Views-komarev-0e75b6?style=for-the-badge&logo=github&logoColor=white)](https://komarev.com/ghpvc/?username=am368a)
-[![MSCS](https://img.shields.io/badge/MSCS-CU%20Boulder-CFB87C?style=for-the-badge&logo=google-academic&logoColor=black)](https://github.com/cu-mscso)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Staff+Software+Engineer+%40+Walmart+Global+Tech;Distributed+Systems+%7C+Cloud-Native+%7C+FinTech;MSCS+%40+CU+Boulder+%7C+AI+%26+LLM+Agentic+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Staff+Software+Engineer+%40+Walmart+Global+Tech;Distributed+Systems+%7C+Cloud-Native+%7C+FinTech;AI+%26+LLM+Agentic+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,11 +20,11 @@
 
 **Staff Software Engineer & Software Architect** with **14+ years of experience** architecting high-throughput distributed systems, cloud-native backend platforms, and high-volume transaction engines across retail, financial services, and telecom. 
 
-Currently building enterprise-scale systems at **Walmart Global Tech**, pursuing an **MSCS at CU Boulder**, and actively building with **Generative AI, Agentic LLM Workflows, and Autonomous Systems**.
+Currently building enterprise-scale platforms at **Walmart Global Tech** and actively engineering with **Generative AI, Agentic LLM Workflows, and Autonomous Systems**.
 
 - 🔭 **Currently Working On**: High-scale distributed event streaming & enterprise cloud platforms
-- 🎓 **Education**: MS Computer Science @ CU Boulder (*in progress*) | BS Electrical Engineering @ UNL
 - 🧠 **Focus Areas**: Agentic AI Architectures, Large Language Models, Distributed Systems, Multi-Cloud Platforms
+- 💼 **Domain Expertise**: Retail Tech, FinTech, High-Volume APIs, Distributed Event Streaming
 - 📬 **Get In Touch**: Connect with me on [LinkedIn](https://www.linkedin.com/in/am368a)
 
 ---
@@ -81,13 +80,10 @@ timeline
 - ⚡ [**serverless-websockets**](https://github.com/am368a/serverless-websockets) — Real-time event architecture using AWS API Gateway & Lambda *(JavaScript)*
 - 🖼️ [**serverless-node-image**](https://github.com/am368a/serverless-node-image) — High-throughput image processing pipeline on AWS Serverless *(JavaScript)*
 
-#### 🏢 Organization Work
+#### 🏢 Organization & Platform Work
 - 🚛 [**suma-inc**](https://github.com/suma-inc) — Feonix fleet management & telemetry platform
 - 🚕 [**igdinaction**](https://github.com/igdinaction) — Liberty Now transportation & dispatch platform
-
-#### 🎓 Academic & AI Research Orgs
-- 🏫 [**cu-mscso**](https://github.com/cu-mscso) — CU Boulder MSCS Repositories (Algorithms, HPC, ML, GenAI)
-- 🤖 [**udacity-awm**](https://github.com/udacity-awm) — Agentic AI & Autonomous Systems Nanodegree projects
+- 🤖 [**udacity-awm**](https://github.com/udacity-awm) — Agentic AI & Autonomous Systems engineering
 - 📱 [**mcso-ap**](https://github.com/mcso-ap) — Mobile Computing & Android Platform development
 
 ---
